@@ -1,0 +1,390 @@
+{
+  "1": {
+    "exp": 0,
+    "exp_needed_for_next_level": 48
+  },
+  "2": {
+    "exp": 48,
+    "exp_needed_for_next_level": 154
+  },
+  "3": {
+    "exp": 202,
+    "exp_needed_for_next_level": 342
+  },
+  "4": {
+    "exp": 544,
+    "exp_needed_for_next_level": 468
+  },
+  "5": {
+    "exp": 1012,
+    "exp_needed_for_next_level": 832
+  },
+  "6": {
+    "exp": 1844,
+    "exp_needed_for_next_level": 948
+  },
+  "7": {
+    "exp": 2792,
+    "exp_needed_for_next_level": 1008
+  },
+  "8": {
+    "exp": 3800,
+    "exp_needed_for_next_level": 1070
+  },
+  "9": {
+    "exp": 4870,
+    "exp_needed_for_next_level": 1134
+  },
+  "10": {
+    "exp": 6004,
+    "exp_needed_for_next_level": 1188
+  },
+  "11": {
+    "exp": 7192,
+    "exp_needed_for_next_level": 1256
+  },
+  "12": {
+    "exp": 8448,
+    "exp_needed_for_next_level": 1312
+  },
+  "13": {
+    "exp": 9760,
+    "exp_needed_for_next_level": 1380
+  },
+  "14": {
+    "exp": 11140,
+    "exp_needed_for_next_level": 1426
+  },
+  "15": {
+    "exp": 12566,
+    "exp_needed_for_next_level": 1494
+  },
+  "16": {
+    "exp": 14060,
+    "exp_needed_for_next_level": 1550
+  },
+  "17": {
+    "exp": 15610,
+    "exp_needed_for_next_level": 1614
+  },
+  "18": {
+    "exp": 17224,
+    "exp_needed_for_next_level": 1678
+  },
+  "19": {
+    "exp": 18902,
+    "exp_needed_for_next_level": 1730
+  },
+  "20": {
+    "exp": 20632,
+    "exp_needed_for_next_level": 1792
+  },
+  "21": {
+    "exp": 22424,
+    "exp_needed_for_next_level": 1854
+  },
+  "22": {
+    "exp": 24278,
+    "exp_needed_for_next_level": 1914
+  },
+  "23": {
+    "exp": 26192,
+    "exp_needed_for_next_level": 1974
+  },
+  "24": {
+    "exp": 28166,
+    "exp_needed_for_next_level": 2034
+  },
+  "25": {
+    "exp": 30200,
+    "exp_needed_for_next_level": 2094
+  },
+  "26": {
+    "exp": 32294,
+    "exp_needed_for_next_level": 2154
+  },
+  "27": {
+    "exp": 34448,
+    "exp_needed_for_next_level": 3356
+  },
+  "28": {
+    "exp": 37804,
+    "exp_needed_for_next_level": 3470
+  },
+  "29": {
+    "exp": 41274,
+    "exp_needed_for_next_level": 3596
+  },
+  "30": {
+    "exp": 44870,
+    "exp_needed_for_next_level": 3712
+  },
+  "31": {
+    "exp": 48582,
+    "exp_needed_for_next_level": 4812
+  },
+  "32": {
+    "exp": 53394,
+    "exp_needed_for_next_level": 5172
+  },
+  "33": {
+    "exp": 58566,
+    "exp_needed_for_next_level": 5530
+  },
+  "34": {
+    "exp": 64096,
+    "exp_needed_for_next_level": 5898
+  },
+  "35": {
+    "exp": 69994,
+    "exp_needed_for_next_level": 6466
+  },
+  "36": {
+    "exp": 76460,
+    "exp_needed_for_next_level": 7046
+  },
+  "37": {
+    "exp": 83506,
+    "exp_needed_for_next_level": 7622
+  },
+  "38": {
+    "exp": 91128,
+    "exp_needed_for_next_level": 8194
+  },
+  "39": {
+    "exp": 99322,
+    "exp_needed_for_next_level": 8770
+  },
+  "40": {
+    "exp": 108092,
+    "exp_needed_for_next_level": 12052
+  },
+  "41": {
+    "exp": 120144,
+    "exp_needed_for_next_level": 13122
+  },
+  "42": {
+    "exp": 133266,
+    "exp_needed_for_next_level": 14206
+  },
+  "43": {
+    "exp": 147472,
+    "exp_needed_for_next_level": 15288
+  },
+  "44": {
+    "exp": 162760,
+    "exp_needed_for_next_level": 16366
+  },
+  "45": {
+    "exp": 179126,
+    "exp_needed_for_next_level": 17446
+  },
+  "46": {
+    "exp": 196572,
+    "exp_needed_for_next_level": 18796
+  },
+  "47": {
+    "exp": 215368,
+    "exp_needed_for_next_level": 20148
+  },
+  "48": {
+    "exp": 235516,
+    "exp_needed_for_next_level": 21494
+  },
+  "49": {
+    "exp": 257010,
+    "exp_needed_for_next_level": 22850
+  },
+  "50": {
+    "exp": 279860,
+    "exp_needed_for_next_level": 24196
+  },
+  "51": {
+    "exp": 304056,
+    "exp_needed_for_next_level": 44262
+  },
+  "52": {
+    "exp": 348318,
+    "exp_needed_for_next_level": 46664
+  },
+  "53": {
+    "exp": 394982,
+    "exp_needed_for_next_level": 49062
+  },
+  "54": {
+    "exp": 444044,
+    "exp_needed_for_next_level": 51464
+  },
+  "55": {
+    "exp": 495508,
+    "exp_needed_for_next_level": 53856
+  },
+  "56": {
+    "exp": 549364,
+    "exp_needed_for_next_level": 84392
+  },
+  "57": {
+    "exp": 633756,
+    "exp_needed_for_next_level": 87988
+  },
+  "58": {
+    "exp": 721744,
+    "exp_needed_for_next_level": 91592
+  },
+  "59": {
+    "exp": 813336,
+    "exp_needed_for_next_level": 95186
+  },
+  "60": {
+    "exp": 908522,
+    "exp_needed_for_next_level": 132916
+  },
+  "61": {
+    "exp": 1041438,
+    "exp_needed_for_next_level": 138914
+  },
+  "62": {
+    "exp": 1180352,
+    "exp_needed_for_next_level": 144914
+  },
+  "63": {
+    "exp": 1325266,
+    "exp_needed_for_next_level": 150918
+  },
+  "64": {
+    "exp": 1476184,
+    "exp_needed_for_next_level": 158116
+  },
+  "65": {
+    "exp": 1634300,
+    "exp_needed_for_next_level": 206646
+  },
+  "66": {
+    "exp": 1840946,
+    "exp_needed_for_next_level": 215648
+  },
+  "67": {
+    "exp": 2056594,
+    "exp_needed_for_next_level": 224648
+  },
+  "68": {
+    "exp": 2281242,
+    "exp_needed_for_next_level": 233638
+  },
+  "69": {
+    "exp": 2514880,
+    "exp_needed_for_next_level": 242650
+  },
+  "70": {
+    "exp": 2757530,
+    "exp_needed_for_next_level": 301976
+  },
+  "71": {
+    "exp": 3059506,
+    "exp_needed_for_next_level": 312778
+  },
+  "72": {
+    "exp": 3372284,
+    "exp_needed_for_next_level": 327172
+  },
+  "73": {
+    "exp": 3699456,
+    "exp_needed_for_next_level": 341574
+  },
+  "74": {
+    "exp": 4041030,
+    "exp_needed_for_next_level": 355972
+  },
+  "75": {
+    "exp": 4397002,
+    "exp_needed_for_next_level": 432102
+  },
+  "76": {
+    "exp": 4829104,
+    "exp_needed_for_next_level": 453100
+  },
+  "77": {
+    "exp": 5282204,
+    "exp_needed_for_next_level": 474100
+  },
+  "78": {
+    "exp": 5756304,
+    "exp_needed_for_next_level": 495100
+  },
+  "79": {
+    "exp": 6251404,
+    "exp_needed_for_next_level": 516098
+  },
+  "80": {
+    "exp": 6767502,
+    "exp_needed_for_next_level": 613822
+  },
+  "81": {
+    "exp": 7381324,
+    "exp_needed_for_next_level": 661830
+  },
+  "82": {
+    "exp": 8043154,
+    "exp_needed_for_next_level": 709828
+  },
+  "83": {
+    "exp": 8752982,
+    "exp_needed_for_next_level": 757826
+  },
+  "84": {
+    "exp": 9510808,
+    "exp_needed_for_next_level": 805830
+  },
+  "85": {
+    "exp": 10316638,
+    "exp_needed_for_next_level": 960552
+  },
+  "86": {
+    "exp": 11277190,
+    "exp_needed_for_next_level": 1014558
+  },
+  "87": {
+    "exp": 12291748,
+    "exp_needed_for_next_level": 1068556
+  },
+  "88": {
+    "exp": 13360304,
+    "exp_needed_for_next_level": 1122554
+  },
+  "89": {
+    "exp": 14482858,
+    "exp_needed_for_next_level": 1176560
+  },
+  "90": {
+    "exp": 15659418,
+    "exp_needed_for_next_level": 1367290
+  },
+  "91": {
+    "exp": 17026708,
+    "exp_needed_for_next_level": 1427242
+  },
+  "92": {
+    "exp": 18453950,
+    "exp_needed_for_next_level": 1487330
+  },
+  "93": {
+    "exp": 19941280,
+    "exp_needed_for_next_level": 1547290
+  },
+  "94": {
+    "exp": 21488570,
+    "exp_needed_for_next_level": 1607288
+  },
+  "95": {
+    "exp": 23095858,
+    "exp_needed_for_next_level": 1667280
+  },
+  "96": {
+    "exp": 24763138,
+    "exp_needed_for_next_level": 1727290
+  },
+  "97": {
+    "exp": 26490428,
+    "exp_needed_for_next_level": 1787280
+  }
+}
