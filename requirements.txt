@@ -1,0 +1,8 @@
+httpx
+google-play-scraper
+pycryptodome
+protobuf
+protobuf-decoder
+Flask
+Werkzeug
+psutil
